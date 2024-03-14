@@ -17,3 +17,6 @@ Applied ensemble ML algorithms such as Random Forest, XGBoost, and Multinomial N
 ### Results:
 The best-performing model in this analysis was the Random Forest classifier, which achieved an accuracy of 83% on the IMDB movie reviews dataset. This indicates the effectiveness of the ensemble approach and the quality of the features extracted using NLP techniques.
 
+![download](https://github.com/ApurbaApd/IMDB_review_NLP_ML/assets/119648597/5113c67d-fd36-477c-8461-273d5d051577)
+
+
